@@ -1,0 +1,33 @@
+# Altium Designer - Ignore temporary and generated files
+
+# History folder (version history)
+History/
+
+# Project Logs
+Project Logs*/
+
+# Project Outputs (Gerber, BOM, etc. - regenerate from source)
+Project Outputs*/
+
+# Backup files
+*.PcbDoc.Zip
+*.SchDoc.Zip
+__Previews/
+
+# Status files
+Status Report.Txt
+
+# Altium cache/temp
+*.PcbDoc.lck
+*.SchDoc.lck
+*.PrjPcb.lck
+*.Dat
+*.log
+
+# Archive zips (large, not needed in repo)
+*.zip
+
+# Windows
+Thumbs.db
+Desktop.ini
+
